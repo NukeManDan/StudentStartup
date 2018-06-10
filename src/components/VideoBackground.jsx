@@ -12,7 +12,7 @@ const VideoBackground = () => {
       >
         <source src={videosrc} />
       </video>
-      <h1>Solution-Based Learning</h1>
+      <h1>Student Startup</h1>
     </div>
   );
 };
