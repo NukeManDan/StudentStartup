@@ -36,12 +36,32 @@ const AboutAndCompleted = () => {
       <div className="aboutus">
         <h3><center>About Us</center></h3>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
-          odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla
-          quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent
-          mauris. Fusce nec tellus sed augue semper porta. Mauris massa.
-          Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad
-          litora torquent per conubia nostra, per inceptos himenaeos.{" "}
+          We are a connector for students, biuissnesses and educators to make real world impact in projects they care about.
+          
+          <h2>Students:</h2>
+            <ul>
+              <li><strong>Choice</strong> of projects to work on and learn about</li>
+              <li><strong>Impact</strong> on their community</li>
+              <li><strong>Portfolios</strong> to highlight their efforts and skills</li>
+            </ul>  
+
+          <h2>Educators:</h2>
+
+            <ul>
+              <li><strong>Overhead Reduction</strong> - we facilitate projects to free educators time</li>
+              <li><strong>Individualized Learning</strong> - self-directed students</li>
+              <li><strong>Engaged Students</strong> - reducing behavioral issues </li>
+            </ul>  
+
+          <h2>Businesses:</h2>
+
+            <ul>
+              <li><strong>Real Solutions</strong> - valuable products developed by students</li>
+              <li><strong>Corporate Social Impact</strong> - strengthen your brand image</li>
+              <li><strong>Community Leadership</strong> - highlight your contributions and values</li>
+
+            </ul>  
+           {" "}
         </p>
         <img src="http://lacity17.test-cityofla.acsitefactory.com/sites/g/files/wph781/f/styles/tiled_homepage_blog/public/science_day.jpg?itok=DHwooQ1m" />
       </div>
