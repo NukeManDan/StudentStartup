@@ -34,7 +34,7 @@ const AboutAndCompleted = () => {
         </ul>
       </div>
       <div className="aboutus">
-        <h3>About Us</h3>
+        <h3><center>About Us</center></h3>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
           odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla
