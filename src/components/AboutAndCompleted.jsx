@@ -4,7 +4,7 @@ const AboutAndCompleted = () => {
   return (
     <div className="aboutandcompleted">
       <div className="listofcompletes">
-        <h3>What Our Students Have Accomplished</h3>
+        <h3><center>What Our Students Have Accomplished</center></h3>
         <ul>
           <li>
             Shepardson needs a way to reduce waste so that we can decrease the
