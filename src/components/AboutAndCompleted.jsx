@@ -38,14 +38,14 @@ const AboutAndCompleted = () => {
         <p>
           We are a connector for students, biuissnesses and educators to make real world impact in projects they care about.
           
-          <h2>Students:</h2>
+          <h4>Students:</h4>
             <ul>
               <li><strong>Choice</strong> of projects to work on and learn about</li>
               <li><strong>Impact</strong> on their community</li>
               <li><strong>Portfolios</strong> to highlight their efforts and skills</li>
             </ul>  
 
-          <h2>Educators:</h2>
+          <h4>Educators:</h4>
 
             <ul>
               <li><strong>Overhead Reduction</strong> - we facilitate projects to free educators time</li>
@@ -53,7 +53,7 @@ const AboutAndCompleted = () => {
               <li><strong>Engaged Students</strong> - reducing behavioral issues </li>
             </ul>  
 
-          <h2>Businesses:</h2>
+          <h4>Businesses:</h4>
 
             <ul>
               <li><strong>Real Solutions</strong> - valuable products developed by students</li>
