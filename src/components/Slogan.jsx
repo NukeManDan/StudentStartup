@@ -3,7 +3,7 @@ import React from "react";
 const Slogan = () => {
   return (
     <div className="slogan">
-      <h2>Pioneering Solutions To Problem-Based Learning</h2>
+      <h2>Problem-Based Learning Solutions</h2>
       <hr />
     </div>
   );
